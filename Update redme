@@ -37,5 +37,12 @@ VGG19 Model
 ResNet50 Model
 EfficientNet (EfficientNet-B0)
 
+Part 4: Training the Model
+Define Loss and Optimizer
+Train the Model
+Validate the Model
+Parameter Tuning with Grid Search
+
+
 
 
