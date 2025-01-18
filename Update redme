@@ -32,3 +32,10 @@ Split into training, validation, and test sets.
 Data Loaders
 Create data loaders for efficient batching.
 
+Part 3: Using Pre-trained Models
+VGG19 Model
+ResNet50 Model
+EfficientNet (EfficientNet-B0)
+
+
+
