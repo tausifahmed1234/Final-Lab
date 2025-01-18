@@ -21,3 +21,14 @@ Dataset Overview
 Task
 • Classify images into one of the 101 categories using a CNN.
 • Visualize model decision-making using Grad-CAM.
+
+Part 2: Dataset Loading and Preprocessing
+Download Dataset
+• Download the Caltech-101 dataset from Caltech-101 Dataset.
+Load Dataset
+Use PyTorch to load and preprocess the dataset. Example in PyTorch:
+Split Dataset
+Split into training, validation, and test sets.
+Data Loaders
+Create data loaders for efficient batching.
+
