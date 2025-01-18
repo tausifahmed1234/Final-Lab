@@ -33,15 +33,24 @@ Data Loaders
 Create data loaders for efficient batching.
 
 Part 3: Using Pre-trained Models
-VGG19 Model
-ResNet50 Model
-EfficientNet (EfficientNet-B0)
+1. VGG19 Model
+2. ResNet50 Model
+3. EfficientNet (EfficientNet-B0)
 
 Part 4: Training the Model
-Define Loss and Optimizer
-Train the Model
-Validate the Model
-Parameter Tuning with Grid Search
+1. Define Loss and Optimizer
+2. Train the Model
+3. Validate the Model
+4. Parameter Tuning with Grid Search
+
+Part 5: Evaluating the Model
+1. Evaluate on Test Data
+2. Confusion Matrix
+3. Classification Report
+4. Top-k Accuracy
+5. Per-Class Accuracy
+6. t-SNE Visualization
+
 
 
 
