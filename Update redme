@@ -51,7 +51,9 @@ Part 5: Evaluating the Model
 5. Per-Class Accuracy
 6. t-SNE Visualization
 
-
+Part 6: Explainable AI (XAI) with Grad-CAM
+Install Grad-CAM Library
+Apply Grad-CAM
 
 
 
